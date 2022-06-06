@@ -1,0 +1,111 @@
+{
+    "uuid": [
+        {
+            "value": "d7438924-701b-416e-823b-65cddca2a395"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "blog",
+            "target_type": "node_type",
+            "target_uuid": "ccc4c3e6-89cf-428a-947b-279efd6552e2"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-06T07:01:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
+        }
+    ],
+    "title": [
+        {
+            "value": "Fusce egestas elit eget"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-06T07:01:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-06T07:01:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>fdsafdas fsda fdsa &nbsp;fdafsd<\/p>",
+            "format": "rich_text",
+            "summary": ""
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "dsfds",
+            "title": "",
+            "width": 570,
+            "height": 608,
+            "target_type": "file",
+            "target_uuid": "0cb6171b-ec56-4975-8102-e1e1bf94f662"
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "682796f0-544a-4246-a448-f4ac5f00df04"
+        }
+    ]
+}

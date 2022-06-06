@@ -1,0 +1,60 @@
+{
+    "uuid": [
+        {
+            "value": "0cb6171b-ec56-4975-8102-e1e1bf94f662"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bfbf5663-558c-4ac7-97da-c302be9d2c6a"
+        }
+    ],
+    "filename": [
+        {
+            "value": "pesan video.JPG"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2022-06\/pesan video.JPG"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 50058
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-06T07:01:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-06T07:01:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "bookish_image_data": [
+        {
+            "value": "{\"brightness\":45,\"contrast\":9,\"saturation\":-50,\"blur\":0,\"grayscale\":0,\"hue\":0,\"red\":34,\"green\":18,\"blue\":0,\"focal_point\":[285,304],\"zoom\":0}"
+        }
+    ]
+}

@@ -80,5 +80,17 @@
     "taxonomy_term.2553fccc-74a7-4b94-b506-1d5d8f0d2fb3": [],
     "user.40c31d00-a7c1-4c41-97cf-b8afec38ff0d": [],
     "user.bfbf5663-558c-4ac7-97da-c302be9d2c6a": [],
-    "menu_link_content.29abef20-0e79-4161-986b-f3b68fbfb75c": []
+    "menu_link_content.29abef20-0e79-4161-986b-f3b68fbfb75c": [],
+    "file.0cb6171b-ec56-4975-8102-e1e1bf94f662": [
+        "user.bfbf5663-558c-4ac7-97da-c302be9d2c6a"
+    ],
+    "taxonomy_term.682796f0-544a-4246-a448-f4ac5f00df04": [],
+    "node.d7438924-701b-416e-823b-65cddca2a395": [
+        "user.bfbf5663-558c-4ac7-97da-c302be9d2c6a",
+        "file.0cb6171b-ec56-4975-8102-e1e1bf94f662",
+        "taxonomy_term.682796f0-544a-4246-a448-f4ac5f00df04"
+    ],
+    "path_alias.89f341ed-d8d2-4507-a9c4-2933c88d4505": [
+        "node.d7438924-701b-416e-823b-65cddca2a395"
+    ]
 }
