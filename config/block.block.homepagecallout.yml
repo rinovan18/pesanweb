@@ -2,7 +2,10 @@ uuid: f6e26722-87db-413f-bb6a-bd6207bf30a3
 langcode: en
 status: true
 dependencies:
+  content:
+    - 'block_content:bookish_callout:9d7ae167-dad8-46fd-b69d-9a6f353c7613'
   module:
+    - block_content
     - system
   theme:
     - bookish_theme

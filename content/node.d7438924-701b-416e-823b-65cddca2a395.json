@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-06T07:01:44+00:00",
+            "value": "2022-06-07T14:38:39+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-06T07:01:44+00:00",
+            "value": "2022-06-07T14:38:39+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,15 +79,14 @@
     ],
     "path": [
         {
-            "alias": "",
-            "pid": null,
+            "alias": "\/blog\/fusce-egestas-elit-eget",
             "langcode": "en",
             "pathauto": 1
         }
     ],
     "body": [
         {
-            "value": "<p>fdsafdas fsda fdsa &nbsp;fdafsd<\/p>",
+            "value": "<form name=\"redirect\"><center><p><font face=\"Arial\"><strong>You will be redirected to the script in<\/strong><\/font><br><br><font face=\"Arial\"><strong><input type=\"text\" size=\"3\" name=\"redirect2\"> seconds<\/strong><\/font><\/p><\/center><\/form>\n<script>\n\nvar targetURL=\"http:\/\/goo.blogspot.com\/\"\nvar countdownfrom=5\n\nvar currentsecond=document.redirect.redirect2.value=countdownfrom+1\nfunction countredirect(){\nif (currentsecond!=1){\ncurrentsecond-=1\ndocument.redirect.redirect2.value=currentsecond\n}\nelse{\nwindow.location=targetURL\nreturn\n}\nsetTimeout(\"countredirect()\",1000)\n}\n\ncountredirect()\n\/\/--&gt;\n<\/script>",
             "format": "rich_text",
             "summary": ""
         }
