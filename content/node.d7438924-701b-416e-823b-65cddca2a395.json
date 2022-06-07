@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2022-06-07T14:38:39+00:00",
+            "value": "2022-06-07T15:44:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2022-06-07T14:38:39+00:00",
+            "value": "2022-06-07T15:44:12+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -86,7 +86,7 @@
     ],
     "body": [
         {
-            "value": "<form name=\"redirect\"><center><p><font face=\"Arial\"><strong>You will be redirected to the script in<\/strong><\/font><br><br><font face=\"Arial\"><strong><input type=\"text\" size=\"3\" name=\"redirect2\"> seconds<\/strong><\/font><\/p><\/center><\/form>\n<script>\n\nvar targetURL=\"http:\/\/goo.blogspot.com\/\"\nvar countdownfrom=5\n\nvar currentsecond=document.redirect.redirect2.value=countdownfrom+1\nfunction countredirect(){\nif (currentsecond!=1){\ncurrentsecond-=1\ndocument.redirect.redirect2.value=currentsecond\n}\nelse{\nwindow.location=targetURL\nreturn\n}\nsetTimeout(\"countredirect()\",1000)\n}\n\ncountredirect()\n\/\/--&gt;\n<\/script>",
+            "value": "<script src=\"\/\/cdn.social9.com\/js\/socialshare.min.js\" content=\"fda9ce00e9674d3ba8a801359fd6c1f7\" defer async=\"\" id=\"s9-sdk\"><\/script><div class=\"s9-widget-wrapper\">\u00a0<\/div>",
             "format": "rich_text",
             "summary": ""
         }
